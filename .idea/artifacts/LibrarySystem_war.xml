@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LibrarySystem:war">
+    <output-path>$PROJECT_DIR$/LibrarySystem/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>LibrarySystem</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="LibrarySystem-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="LibrarySystem:war exploded" />
+    </root>
+  </artifact>
+</component>

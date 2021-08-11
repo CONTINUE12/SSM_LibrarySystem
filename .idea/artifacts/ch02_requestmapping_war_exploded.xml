@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ch02-requestmapping:war exploded">
+    <output-path>$PROJECT_DIR$/../SpringMVC_course/ch02-requestmapping/target/ch02-requestmapping-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>ch02-requestmapping</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ch02-requestmapping" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.5.RELEASE" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../SpringMVC_course/ch02-requestmapping/target/ch02-requestmapping-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ch02-requestmapping/web/Web" />
+    </root>
+  </artifact>
+</component>
