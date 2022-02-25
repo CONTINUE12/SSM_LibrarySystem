@@ -23,21 +23,27 @@
 ![输入图片说明](imagesimage.png)
 
 - （1）图书目录表book_info
+
 ![输入图片说明](images1.png)
 
 - （2）管理员表admin
+
 ![输入图片说明](images2.png)
 
 - （3）图书分类表class_info
+
 ![输入图片说明](images3.png)
 
 - （4）借阅信息表lend_list
+
 ![输入图片说明](images4.png)
 
 - （5）借阅卡信息表reader_card
+
 ![输入图片说明](images5.png)
 
 - （6）读者信息表
+
 ![输入图片说明](images6.png)
 
 
