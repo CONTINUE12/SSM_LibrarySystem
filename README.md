@@ -54,3 +54,6 @@
 - （3）bug原因：Tomcat中使用post方法提交表单时，默认采用的编码方式为ISO-8859-1，因此需要将编码方式转为UTF-8    
 - （4）bug解决：使用String name = new String(name.getBytes("ISO-8859-1"), "UTF-8")进行转换
 
+六.项目讲解博客
+
+https://blog.csdn.net/qq_39144436/article/details/123136556
