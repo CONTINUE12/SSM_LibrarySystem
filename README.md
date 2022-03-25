@@ -62,3 +62,6 @@ https://blog.csdn.net/qq_39144436/article/details/123136556
 
 1.基于微服务架构，包括网上预约挂号业务和肺癌风险评估业务，旨在缓解挂号难、看病难的就医难题。
 https://github.com/CONTINUE12/PMP
+
+2.基于Spring Boot、Mybatis、MySQL、Lombok、Web Bluetooth API、Thymeleaf、AdminLTE3、JqGrid 的RIREE交互系统
+https://github.com/CONTINUE12/RIREE
