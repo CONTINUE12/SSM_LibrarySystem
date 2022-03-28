@@ -68,3 +68,6 @@ https://github.com/CONTINUE12/RIREE
 
 3.基于Spring+SpringMVC+Mybatis的图书管理系统 
 https://github.com/CONTINUE12/SSM_LibrarySystem
+
+4.基于JAVAWEB的超市订单管理系统SMBMS
+https://github.com/CONTINUE12/Javaweb-SMBMS
