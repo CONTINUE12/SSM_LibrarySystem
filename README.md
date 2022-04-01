@@ -73,3 +73,4 @@ https://github.com/CONTINUE12/SSM_LibrarySystem
 https://github.com/CONTINUE12/Javaweb-SMBMS
 
 5.基于AWT和Swing及MYSQL开发的学校教务系统
+https://github.com/CONTINUE12/JavaSE_School_Management_System
