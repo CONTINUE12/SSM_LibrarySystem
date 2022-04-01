@@ -71,3 +71,5 @@ https://github.com/CONTINUE12/SSM_LibrarySystem
 
 4.基于JAVAWEB的超市订单管理系统SMBMS
 https://github.com/CONTINUE12/Javaweb-SMBMS
+
+5.基于AWT和Swing及MYSQL开发的学校教务系统
